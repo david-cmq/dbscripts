@@ -1,2 +1,2 @@
-use db ChronoMetriq;
+use ChronoMetriq;
 select * from Printers;
