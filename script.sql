@@ -1,2 +1,2 @@
 use ChronoMetriq;
-select * from Printers;
+select * from walk_in_clinics;
