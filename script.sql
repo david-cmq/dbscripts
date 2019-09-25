@@ -1,2 +1,2 @@
 use ChronoMetriq;
-select * from ChronoMetriq.Printer;
+select * from ChronoMetriq.Printer ;
