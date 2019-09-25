@@ -1,1 +1,1 @@
-select * from ChronoMetriq.Printer ;
+select * from Printer ;
