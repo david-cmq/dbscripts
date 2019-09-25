@@ -1,2 +1,2 @@
 use ChronoMetriq;
-select * from walk_in_clinics;
+select * from ChronoMetriq.Printer;
